@@ -8,7 +8,7 @@ This repository will be used to save the **Front-End (WEB)** part of the project
 
 - [x] Front-End
   - [x] Vite configuration
-  - [ ] Tailwind CSS configuration
+  - [x] Tailwind CSS configuration
 
 ## Technologies:
 
