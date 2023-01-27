@@ -12,7 +12,7 @@ This repository will be used to save the **Front-End (WEB)** part of the project
   - [ ] Homepage structure
     - [x] Component: Header
     - [x] Habits day table
-    - [ ] Generating range of days
+    - [x] Generating range of days
     - [ ] Filling days in the end
     - [ ] Adding horizontal scroll
 
