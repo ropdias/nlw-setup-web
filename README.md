@@ -15,7 +15,7 @@ This repository will be used to save the **Front-End (WEB)** part of the project
     - [x] Generating range of days
     - [x] Filling days in the end
     - [x] Habit creation modal
-    - [ ] Popover of day detail
+    - [x] Popover of day detail
     - [ ] Personalizing progress in the HabitDay
     - [ ] Getting data from form
     - [ ] Synchronizing completed habits
