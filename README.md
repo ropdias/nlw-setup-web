@@ -27,6 +27,7 @@ This repository will be used to save the **Front-End (WEB)** part of the project
     - [x] Listing possible/completed habits each day
     - [x] Disabling check/uncheck in past days
     - [x] Synchronizing completed habits
+    - [x] Adding transitions and focus
   - [ ] Adding horizontal scroll
 
 ## Technologies:
