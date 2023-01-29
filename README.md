@@ -21,10 +21,10 @@ This repository will be used to save the **Front-End (WEB)** part of the project
   - [x] Getting data from form
   - [ ] Connecting with the back-end
     - [x] Configuring HTTP client
-    - [ ] Searching API index
-    - [ ] Using API data in the Popover
-    - [ ] Synchronizing completed habits
+    - [x] Getting summary
+    - [x] Using API data in the Popover
     - [ ] Creating a new Habit
+    - [ ] Synchronizing completed habits
   - [ ] Adding horizontal scroll
 
 ## Technologies:
