@@ -8,7 +8,7 @@ const weekDays = ["D", "S", "T", "Q", "Q", "S", "S"];
 
 const summaryDates = generateDatesFromYearBeginning();
 
-const minimumSummaryDatesSize = 18 * 7; // 18 weeks
+const minimumSummaryDatesSize = 365;
 const amountOfDaysToFill = minimumSummaryDatesSize - summaryDates.length;
 
 type Summary = Array<{
@@ -30,7 +30,7 @@ export function SummaryTable() {
   }, []);
 
   return (
-    <div className="w-full flex">
+    <div className="w-full flex overflow-x-auto scrollbar pb-2">
       <div className="grid grid-rows-7 grid-flow-row gap-3">
         {weekDays.map((weekDay, i) => {
           return (
