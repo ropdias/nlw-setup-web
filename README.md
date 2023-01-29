@@ -25,6 +25,7 @@ This repository will be used to save the **Front-End (WEB)** part of the project
     - [x] Using API data in the Popover
     - [x] Creating a new Habit
     - [x] Listing possible/completed habits each day
+    - [x] Disabling check/uncheck in past days
     - [ ] Synchronizing completed habits
   - [ ] Adding horizontal scroll
 
