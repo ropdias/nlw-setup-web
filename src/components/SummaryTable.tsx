@@ -18,7 +18,8 @@ type Summary = Array<{
   completed: number;
 }>;
 
-// we have a bug in here: if the year do not start on Sunday it will start the first HabitDay in the Sunday anyways.
+// Bug: We are missing a try/catch block for axios eventual errors
+// Bug: if the year do not start on Sunday it will start the first HabitDay in the Sunday anyways.
 export function SummaryTable() {
   const [summary, setSummary] = useState<Summary>([]);
 
