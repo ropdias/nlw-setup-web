@@ -35,8 +35,6 @@ export function NewHabitForm() {
     }
   };
 
-  console.log(weekDays);
-
   return (
     <form onSubmit={createNewHabit} className="w-full flex flex-col mt-6">
       <label htmlFor="title" className="font-semibold leading-tight">

@@ -9,18 +9,23 @@ This repository will be used to save the **Front-End (WEB)** part of the project
 - [x] Front-End
   - [x] Vite configuration
   - [x] Tailwind CSS configuration
-  - [ ] Homepage structure
+  - [x] Homepage structure
     - [x] Component: Header
     - [x] Habits day table
     - [x] Generating range of days
     - [x] Filling days in the end
-    - [x] Habit creation modal
-    - [x] Popover of day detail
-    - [x] Personalizing progress in the HabitDay
-    - [x] Creating Checkbox component
-    - [x] Getting data from form
+  - [x] Habit creation modal
+  - [x] Popover of day detail
+  - [x] Personalizing progress in the HabitDay
+  - [x] Creating Checkbox component
+  - [x] Getting data from form
+  - [ ] Connecting with the back-end
+    - [x] Configuring HTTP client
+    - [ ] Searching API index
+    - [ ] Using API data in the Popover
     - [ ] Synchronizing completed habits
-    - [ ] Adding horizontal scroll
+    - [ ] Creating a new Habit
+  - [ ] Adding horizontal scroll
 
 ## Technologies:
 
