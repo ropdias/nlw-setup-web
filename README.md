@@ -17,6 +17,7 @@ This repository will be used to save the **Front-End (WEB)** part of the project
     - [x] Habit creation modal
     - [x] Popover of day detail
     - [x] Personalizing progress in the HabitDay
+    - [x] Creating Checkbox component
     - [ ] Getting data from form
     - [ ] Synchronizing completed habits
     - [ ] Adding horizontal scroll
