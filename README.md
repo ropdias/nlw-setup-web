@@ -23,7 +23,7 @@ This repository will be used to save the **Front-End (WEB)** part of the project
     - [x] Configuring HTTP client
     - [x] Getting summary
     - [x] Using API data in the Popover
-    - [ ] Creating a new Habit
+    - [x] Creating a new Habit
     - [ ] Synchronizing completed habits
   - [ ] Adding horizontal scroll
 
