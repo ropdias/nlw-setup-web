@@ -20,6 +20,7 @@ interface HabitsInfo {
 }
 
 // Bug: We are missing a try/catch block for axios eventual errors
+// Bug: Arrumar a função handleToggleHabit para setar setHabitsInfo de acordo com o prevState
 export function HabitsList({ date, onCompletedChange }: HabitsListProps) {
   const [habitsInfo, setHabitsInfo] = useState<HabitsInfo>();
 
