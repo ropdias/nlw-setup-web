@@ -3,7 +3,7 @@ import { SummaryTable } from "./components/SummaryTable";
 import "./styles/global.css";
 import "./lib/dayjs";
 
-// import { Habit } from "./components/Habit";
+navigator.serviceWorker.register("service-worker.js");
 
 export function App() {
   return (
